@@ -13,6 +13,9 @@ Drop them into Claude Code (or any agent that reads SKILL.md files) and they tri
 | **offer-strategist** | A direct business-strategy advisor. Runs your offer and pricing through the Value Equation, finds the one constraint, and gives you one move. | "stress test this offer", "is this priced right", "make this offer better" |
 | **negotiation** | Close on value without discounting your way to a yes. Anchor with options, trade concessions, know your walk-away, and close clean. | "they want a discount", "competitor is cheaper", "how do I close this" |
 | **customer-research** | Turn transcripts, reviews, and your own sales calls into themes, voice-of-customer quote banks, jobs-to-be-done maps, and real personas. | "voice of customer", "analyze these transcripts", "build personas" |
+| **objection-handler** | Handle any sales objection with LAER (Listen, Acknowledge, Explore, Respond). Ready-to-fill scripts for price, timing, authority, competitor, trust. | "they said it's too expensive", "how do I respond to this objection" |
+| **follow-up** | The next touch on a quiet deal: one message with a real purpose, owner, and date, plus the call on when a deal is dead. | "they went quiet", "no reply on the proposal", "next touch" |
+| **positioning** | The one message your whole company writes from: positioning statement, value prop, the wedge, messaging pillars, message map. | "positioning", "what makes us different", "value proposition" |
 
 ## Install
 
