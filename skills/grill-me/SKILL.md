@@ -9,7 +9,7 @@ description: >-
   decision you want stress-tested by hard questions. Triggers: "grill me",
   "grill this plan", "interview me on this", "poke holes in this", "stress test
   this design". NOT FOR: making the decision for you, writing the plan itself, or
-  business-offer and pricing stress tests (use alex-hormozi). Advisory only: it
+  business-offer and pricing stress tests (use offer-strategist). Advisory only: it
   asks questions, it does not execute changes.
 license: MIT
 allowed-tools: Read
@@ -48,7 +48,7 @@ still make the decision.
 
 - Making the decision for you. Grill-me interrogates a plan, it does not choose.
 - Writing the plan or design itself. Bring an existing proposal to grill.
-- Business-offer, pricing, or business-model stress tests. Use alex-hormozi.
+- Business-offer, pricing, or business-model stress tests. Use offer-strategist.
 - Any task that needs a concrete write or execution. This is advisory only and
   asks questions; it does not change files or systems.
 

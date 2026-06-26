@@ -7,7 +7,7 @@ description: >-
   after a proposal is sent, when the other side pushes on price or terms, or to prep
   for a close call. Use when: "they want a discount", "can we do better on price",
   "competitor is cheaper", "they want to think about it", "how do I close this".
-  NOT FOR: designing the offer itself (use alex-hormozi). Honest-only: no fake
+  NOT FOR: designing the offer itself (use offer-strategist). Honest-only: no fake
   deadlines, no fake scarcity, no manipulation.
 license: MIT
 allowed-tools: Read
@@ -21,11 +21,11 @@ Help the seller negotiate and close on value, not price. This skill gives the ta
 
 ## When to use
 
-Use after the proposal or offer is on the table and the other side pushes on price, scope, or terms, or to prepare for a close call. Pairs with alex-hormozi: build the value before you defend it.
+Use after the proposal or offer is on the table and the other side pushes on price, scope, or terms, or to prepare for a close call. Pairs with offer-strategist: build the value before you defend it.
 
 ## Not for
 
-Designing the offer itself (use alex-hormozi). Approving a discount beyond your authority (that is a decision for whoever owns pricing). It produces a negotiation plan and responses, not a price change.
+Designing the offer itself (use offer-strategist). Approving a discount beyond your authority (that is a decision for whoever owns pricing). It produces a negotiation plan and responses, not a price change.
 
 ## How to run
 
@@ -69,5 +69,5 @@ Set your limits before the call, not during it:
 
 ---
 
-Generic negotiation method for closing on value. Pairs with the `alex-hormozi`
+Generic negotiation method for closing on value. Pairs with the `offer-strategist`
 offer-strategy skill in this repo.

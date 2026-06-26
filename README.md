@@ -10,7 +10,7 @@ Drop them into Claude Code (or any agent that reads SKILL.md files) and they tri
 |-------|--------------|--------------------|
 | **grill-me** | A sceptical interviewer that pokes holes in your plan before you commit. Surfaces hidden assumptions, unowned tradeoffs, and failure modes. | "grill this plan", "poke holes in this", "stress test this design" |
 | **teach** | Turns the current folder into a personal course. Builds short, beautiful lessons and reference docs over multiple sessions, tuned for long-term retention. | "teach me X", "I want to learn", "continue my learning" |
-| **alex-hormozi** | A direct business-strategy advisor. Runs your offer and pricing through the Value Equation, finds the one constraint, and gives you one move. | "stress test this offer", "is this priced right", "make this offer better" |
+| **offer-strategist** | A direct business-strategy advisor. Runs your offer and pricing through the Value Equation, finds the one constraint, and gives you one move. | "stress test this offer", "is this priced right", "make this offer better" |
 | **negotiation** | Close on value without discounting your way to a yes. Anchor with options, trade concessions, know your walk-away, and close clean. | "they want a discount", "competitor is cheaper", "how do I close this" |
 | **customer-research** | Turn transcripts, reviews, and your own sales calls into themes, voice-of-customer quote banks, jobs-to-be-done maps, and real personas. | "voice of customer", "analyze these transcripts", "build personas" |
 
@@ -41,7 +41,7 @@ A skill is a Markdown file with a short frontmatter block (name + description wi
 
 - `grill-me`, `teach`: adapted from [Matt Pocock's skills](https://github.com/mattpocock/skills) (MIT).
 - `customer-research`: adapted from [Corey Haines's marketing skills](https://github.com/coreyhaines31/marketingskills) (MIT).
-- `alex-hormozi`: an independent advisor persona modeled on Alex Hormozi's publicly shared frameworks. Not affiliated with or endorsed by Alex Hormozi.
+- `offer-strategist`: an independent advisor persona built around well-known value-based offer and pricing frameworks. Not affiliated with or endorsed by any individual.
 - `negotiation`: a generic value-based closing method.
 
 ## License
